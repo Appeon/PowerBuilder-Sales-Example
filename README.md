@@ -26,8 +26,8 @@ Download this PowerBuilder demo application, and then:
 
    ```
    Data source name: 	PB Demo DB V2021	//Must be the same as the Data source name specified in the code.
-   User ID: 			dba
-   Password: 			sql
+   User ID: 		dba
+   Password: 		sql
    ```
 
 5. Run the PowerBuilder project.
