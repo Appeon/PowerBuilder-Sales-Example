@@ -1,4 +1,4 @@
-# <b>.NET DataStore Example</b>
+﻿# <b>.NET DataStore Example</b>
 
 This C# project uses .NET DataStore from [DWNet.Data](<https://www.nuget.org/packages?q=dwnet>) for creating Web APIs.  It makes use of the latest released Appeon PowerBuilder (including SnapDevelop), and shows how CRUD operations and transaction management works in .NET DataStore.
 
@@ -25,7 +25,7 @@ The project is structured as follows.
 
    ```json
    //Keep the database connection name as the default “PBDemoDB” or change it to a name you prefer to use, and change the Data Source, User ID, Password and Initial Catalog according to the actual settings
-   "ConnectionStrings": { "PBDemoDB": "Data Source=127.0.0.1; Initial Catalog=PB Demo DB V2019R3; Integrated Security=False; User ID=sa; Password=123456; Pooling=True; Min Pool Size=0; Max Pool Size=100; ApplicationIntent=ReadWrite" } 
+   "ConnectionStrings": { "PBDemoDB": "Data Source=127.0.0.1; Initial Catalog=PB Demo DB V2021; Integrated Security=False; User ID=sa; Password=123456; Pooling=True; Min Pool Size=0; Max Pool Size=100; ApplicationIntent=ReadWrite" } 
    ```
 
 5. In the ConfigureServices method of *Startup.cs*, go to the following line, and make sure the ConnectionString name is the same as the database connection name specified in step #4.
