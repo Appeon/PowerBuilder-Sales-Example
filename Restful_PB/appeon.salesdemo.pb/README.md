@@ -4,9 +4,11 @@ a.	Open SnapDevelop IDE, and then open the .NET-DataStore-Example solution.
 
 If your demo database is SQL Anywhere, the solution is available in %Example Sales App%\Restful_PB\dotnet-datastore_asa\.NET-DataStore-Example.
 If your demo database is PostgreSQL, the solution is available in %Example Sales App%\Restful_PB\dotnet-datastore_postgresql\.NET-DataStore-Example.
+If your demo database is SqlServer, the solution is available in %Example Sales App%\Restful_PB\dotnet-datastore_sqlserver\.NET-DataStore-Example.
 
 b.	Test and run the Web APIs in the solution by following the instructions in the README.md.
 
 If your demo database is SQL Anywhere, the README.md is available in %Example Sales App%\Restful_PB\dotnet-datastore_asa.
 If your demo database is PostgreSQL, the README.md is available in %Example Sales App%\Restful_PB\dotnet-datastore_postgresql.
+If your demo database is SqlServer, the README.md is available in %Example Sales App%\Restful_PB\dotnet-datastore_sqlserver.
 
