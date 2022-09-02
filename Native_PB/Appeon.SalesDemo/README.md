@@ -12,7 +12,7 @@ The application contains the basic function modules about sales order processing
 Confirming or adjusting the default PowerClient and PowerServer project settings:
 
 The demo application contains default PowerClient and PowerServer projects. Please double check the project settings against your environment, to make sure the projects can work correctly.
-With both the PowerClient and PowerServer projects: 
+With both the PowerClient and PowerServer projects:  
 
 •	Setting up the local web server. The demo project is deployed to local web server by default. If you go with the local server, make sure:
 	(1)	IIS is running on the current machine:

@@ -17,7 +17,7 @@ The project is structured as follows.
 
 1. Open the PowerBuilder project in PowerBuilder IDE.
 
-2. Open the C# project in SnapDevelop IDE. 
+2. Open the C# project in SnapDevelop IDE.  
 
 3. In SnapDevelop, in Tools > NuGet Package Manager > Manage NuGet Packages for Solution, make sure that Internet connection is available and the option "Include prerelease" is selected, so that the NuGet package can be restored.
 
