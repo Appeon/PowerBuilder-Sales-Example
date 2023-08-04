@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.572
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appeon.DataStoreDemo.SqlAnyWhere", "Appeon.DataStoreDemo.SqlAnyWhere\Appeon.DataStoreDemo.SqlAnyWhere.csproj", "{0A7192F3-CC8D-484C-8F57-421651490D32}"
 EndProject
