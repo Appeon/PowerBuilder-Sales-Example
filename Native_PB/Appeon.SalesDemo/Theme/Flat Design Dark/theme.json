@@ -436,21 +436,25 @@
 		},
 		"spin":
 		{
-			"normal-state": 
+			"normal-state":
 			{
-				"image":{"file":"tabbedbar-spin-normal.bmp"}
-			},             
+				"image":{"file":"tabbedbar-spin-normal.bmp"},
+				"image-alltabsvisible":{"file":"tabbedbar-spin1-normal.bmp"}
+			},
 			"hover-state":
 			{
-				"image":{"file":"tabbedbar-spin-hover.bmp"}
+				"image":{"file":"tabbedbar-spin-hover.bmp"},
+				"image-alltabsvisible":{"file":"tabbedbar-spin1-hover.bmp"}
 			},
 			"pressed-state":
 			{
-				"image":{"file":"tabbedbar-spin-pressed.bmp"}
+				"image":{"file":"tabbedbar-spin-pressed.bmp"},
+				"image-alltabsvisible":{"file":"tabbedbar-spin1-pressed.bmp"}
 			},
 			"disabled-state":
 			{
-				"image":{"file":"tabbedbar-spin-disabled.bmp"}
+				"image":{"file":"tabbedbar-spin-disabled.bmp"},
+				"image-alltabsvisible":{"file":"tabbedbar-spin1-disabled.bmp"}
 			}
 		},
 		"menu":
