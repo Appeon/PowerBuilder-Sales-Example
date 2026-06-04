@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32">
+  <!-- Generator: Adobe Illustrator 29.6.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 9)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#_未命名的渐变_5);
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_5" data-name="未命名的渐变 5" x1="6" y1="31" x2="26" y2="11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3b49e6"/>
+      <stop offset="1" stop-color="#45cafe"/>
+    </linearGradient>
+  </defs>
+  <path class="st0" d="M16,2.46l13.69,14.54h-4.69v13h-6v-8h-6v8h-6v-13H2.31L16,2.46M16,1L0,18h6v13h8v-8h4v8h8v-13h6L16,1h0Z"/>
+</svg>
